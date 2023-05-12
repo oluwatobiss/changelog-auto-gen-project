@@ -1,5 +1,12 @@
 
 
+## [1.3.4](https://github.com/oluwatobiss/changelog-auto-gen-project/compare/1.3.3...1.3.4) (2023-05-12)
+
+
+### ⚒️ Plugin Maintenance
+
+* **release-it:** delete web field ([ff2bcc6](https://github.com/oluwatobiss/changelog-auto-gen-project/commit/ff2bcc69195a7c969d27224a65f13687b5b01735))
+
 ## [1.3.3](https://github.com/oluwatobiss/changelog-auto-gen-project/compare/1.3.2...1.3.3) (2023-05-12)
 
 
