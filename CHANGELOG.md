@@ -1,3 +1,12 @@
+
+
+## [1.3.2](https://github.com/oluwatobiss/changelog-auto-gen-project/compare/1.3.1...1.3.2) (2023-05-12)
+
+
+### Bug Fixes
+
+* **changelog:** delete text about the changelog file ([95b4dcc](https://github.com/oluwatobiss/changelog-auto-gen-project/commit/95b4dcc41e95593d1f6ea37f5153dfa5a54ec73a))
+
 ## [1.3.1](https://github.com/oluwatobiss/changelog-auto-gen-project/compare/1.3.0...1.3.1) (2023-05-12)
 
 ### Bug Fixes
