@@ -9,5 +9,10 @@
     "release": true,
     "web": true,
     "autoGenerate": true
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": "conventionalcommits"
+    }
   }
 }
