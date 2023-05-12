@@ -1,5 +1,12 @@
 
 
+## [1.3.3](https://github.com/oluwatobiss/changelog-auto-gen-project/compare/1.3.2...1.3.3) (2023-05-12)
+
+
+### ⚒️ Plugin Maintenance
+
+* **release-it:** customize changelog's headings ([ae64a38](https://github.com/oluwatobiss/changelog-auto-gen-project/commit/ae64a383e6e4bb5792f43c72b2a216996214f6f6))
+
 ## [1.3.2](https://github.com/oluwatobiss/changelog-auto-gen-project/compare/1.3.1...1.3.2) (2023-05-12)
 
 
